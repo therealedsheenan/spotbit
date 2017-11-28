@@ -1,0 +1,1 @@
+{"appManifestVersion":1,"main":"app/index.js","svgMain":"resources/index.gui","svgWidgets":"resources/widgets.gui","appType":"app","i18n":{"en":{"name":"spotbit"}},"buildId":"0x020af6f4dba31e49","uuid":"42b3f47e-61f3-4ee1-900b-9586ad10dd72","name":"spotbit","bundleDate":"2017-11-28T07:06:02.226Z","requestedPermissions":["access_internet"],"wipeColor":"#607d8b"}
